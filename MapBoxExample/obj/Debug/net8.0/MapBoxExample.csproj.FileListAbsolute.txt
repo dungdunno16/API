@@ -28,3 +28,4 @@ E:\Year3\SEMESTER 2\API\code vs api\MapBoxExample\MapBoxExample\obj\Debug\net8.0
 E:\Year3\SEMESTER 2\API\code vs api\MapBoxExample\MapBoxExample\obj\Debug\net8.0\MapBoxExample.pdb
 E:\Year3\SEMESTER 2\API\code vs api\MapBoxExample\MapBoxExample\obj\Debug\net8.0\MapBoxExample.genruntimeconfig.cache
 E:\Year3\SEMESTER 2\API\code vs api\MapBoxExample\MapBoxExample\obj\Debug\net8.0\ref\MapBoxExample.dll
+E:\Year3\SEMESTER 2\API\code vs api\MapBoxExample\MapBoxExample\obj\Debug\net8.0\MapBoxExample.sourcelink.json
