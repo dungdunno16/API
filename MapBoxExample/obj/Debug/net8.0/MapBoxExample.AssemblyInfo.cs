@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MapBoxExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf96b5ed39fab6107933d54d8b844d86eeca2290")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b960bb00f5488c62cc8e1d0236c9a8a2d03f347")]
 [assembly: System.Reflection.AssemblyProductAttribute("MapBoxExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MapBoxExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
